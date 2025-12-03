@@ -1,5 +1,8 @@
 ## Hi there, I'm Anna 👋
 
+
+![Developer at work](https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp)
+
 <!--
 **anna-borysova2025/anna-borysova2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 
