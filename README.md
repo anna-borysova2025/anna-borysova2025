@@ -23,3 +23,14 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+
+
+
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/anna-borysova2025 /anna-borysova2025 /output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://raw.githubusercontent.com/anna-borysova2025 /anna-borysova2025 /output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light)" />
+    <img src="https://raw.githubusercontent.com/anna-borysova2025 /anna-borysova2025 /output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="opacity:0.7" />
+  </picture>
+</p>
