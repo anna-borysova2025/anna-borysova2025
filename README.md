@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-!HTML5
-!CSS3
-!JavaScript
-!Anna's GitHub stats
-!Top Langs
